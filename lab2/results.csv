@@ -1,0 +1,9 @@
+model,MSE,RMSE,MAE,R2
+housing_nn_best_lr,1993.1073,44.6442,26.7848,0.9366
+housing_nn_best_epoch,2205.8865,46.9669,30.2545,0.9298
+housing_nn_neurons,4002.1726,63.2627,42.9756,0.8726
+housing_nn_best_optim,9281.7539,96.3419,66.1539,0.7046
+housing_nn_layers,14672.0059,121.1281,88.282,0.5331
+housing_nn_default,19017.1602,137.9027,102.7297,0.3948
+linear_model,19771.248,140.6103,106.425,0.3708
+baseline (mean of train),31462.3599,177.3763,139.8064,-0.0012
